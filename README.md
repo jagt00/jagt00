@@ -70,7 +70,7 @@ portail captif & WiFi marketing (**SAMAWIFI**), administration d'infrastructures
 ## 📫 Me contacter
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jeanalexandretine1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagt00)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-alexandre-tine-514687272/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jagt00)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-22d3ee?style=flat-square&logo=react&logoColor=white)](https://jagt00.github.io/portfolio)
 
